@@ -14,8 +14,8 @@ here carrying **nothing but the date**.
 
 ```
 ## 2026-08
-- 2026-08-21 — 3 atividade(s)
-- 2026-08-20 — 1 atividade(s)
+- 2026-08-21 — 3 activities
+- 2026-08-20 — 1 activity
 ```
 
 That's the whole repository. The script that writes it lives on my machine and is
@@ -32,7 +32,7 @@ No information from my work crosses over into this repository:
 - names of clients, products, tickets, or people
 
 Every commit in this repository uses the same generic message
-(`chore: registro de atividade`). The history here is therefore **not** a mirror
+(`chore: activity log`). The history here is therefore **not** a mirror
 of the work — it is only a timestamp.
 
 ## Two rules

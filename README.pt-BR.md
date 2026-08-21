@@ -14,8 +14,8 @@ que carrega **somente a data**.
 
   ```
   ## 2026-08
-  - 2026-08-21 — 3 atividade(s)
-  - 2026-08-20 — 1 atividade(s)
+  - 2026-08-21 — 3 activities
+  - 2026-08-20 — 1 activity
   ```
 
 - `company-commit.py` — o script que faz os dois commits
@@ -32,7 +32,7 @@ Nenhuma informação do trabalho atravessa para este repositório:
 - nomes de clientes, produtos, tickets ou pessoas
 
 Todos os commits deste repositório usam a mesma mensagem genérica
-(`chore: registro de atividade`). Portanto, o histórico daqui **não** é um espelho
+(`chore: activity log`). Portanto, o histórico daqui **não** é um espelho
 do trabalho: é apenas um carimbo de data.
 
 ## Por quê

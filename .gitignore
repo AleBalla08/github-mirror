@@ -44,3 +44,5 @@ desktop.ini
 *.tmp
 *.orig
 *.rej
+
+.python-version
