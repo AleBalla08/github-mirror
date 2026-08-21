@@ -1,44 +1,51 @@
 # my-work
 
-Este repositório é **fictício**. Ele não contém código, projeto ou entrega alguma —
-serve apenas como um **registro público da minha atividade de trabalho**.
+This repository is **fictitious**. It holds no code, no project, no deliverable —
+it exists only as a **public record of my work activity**.
 
-O código em que eu de fato trabalho é **privado**, hospedado no Bitbucket da empresa,
-e não pode ser publicado aqui. Para que o esforço diário não fique invisível no meu
-perfil, cada commit que faço no repositório privado dispara aqui um commit espelho
-que carrega **somente a data**.
+The code I actually write is **private**, hosted on my company's Bitbucket, and
+cannot be published here. So that the daily effort doesn't stay invisible on my
+profile, every commit I make in the private repository triggers a mirror commit
+here carrying **nothing but the date**.
 
-## O que existe aqui
+## What's in here
 
-- `activity.md` — uma linha por dia, com a quantidade de atividades registradas:
+`activity.md` — one line per day, with the number of activities recorded:
 
-  ```
-  ## 2026-08
-  - 2026-08-21 — 3 atividade(s)
-  - 2026-08-20 — 1 atividade(s)
-  ```
+```
+## 2026-08
+- 2026-08-21 — 3 atividade(s)
+- 2026-08-20 — 1 atividade(s)
+```
 
-- `company-commit.py` — o script que faz os dois commits
-- `HOWTOUSE.md` — instruções de uso do script
+That's the whole repository. The script that writes it lives on my machine and is
+not published here.
 
-## O que nunca aparece aqui
+## What never shows up here
 
-Nenhuma informação do trabalho atravessa para este repositório:
+No information from my work crosses over into this repository:
 
-- código, diffs ou trechos de arquivo
-- mensagens dos commits originais
-- hashes de commit
-- nomes de arquivos, branches, diretórios ou do repositório privado
-- nomes de clientes, produtos, tickets ou pessoas
+- code, diffs, or file contents
+- the original commit messages
+- commit hashes
+- names of files, branches, directories, or of the private repository
+- names of clients, products, tickets, or people
 
-Todos os commits deste repositório usam a mesma mensagem genérica
-(`chore: registro de atividade`). Portanto, o histórico daqui **não** é um espelho
-do trabalho: é apenas um carimbo de data.
+Every commit in this repository uses the same generic message
+(`chore: registro de atividade`). The history here is therefore **not** a mirror
+of the work — it is only a timestamp.
 
-## Por quê
+## Two rules
 
-O gráfico de contribuições do GitHub é frequentemente lido como um sinal de
-atividade, mas ele só enxerga repositórios públicos. Quem trabalha em código
-fechado acaba com um perfil vazio que não corresponde à realidade. Este repositório
-existe para corrigir essa distorção — registrando *quando* houve trabalho, sem
-revelar *qual* trabalho foi feito.
+What separates a record from a fake:
+
+- **No backfilling.** Past days are never filled in.
+- **No work, no entry.** If there was no real commit in the private repository,
+  nothing is recorded here.
+
+## Why
+
+The GitHub contribution graph is widely read as a signal of activity, but it can
+only see public repositories. Anyone working on closed-source code ends up with an
+empty profile that doesn't match reality. This repository exists to correct that
+distortion — recording *when* work happened, without revealing *what* the work was.
