@@ -1,0 +1,46 @@
+# --- Privado deste repositório -------------------------------------------
+# Nada relacionado à ferramenta ou ao trabalho deve ser publicado.
+.env
+.env.*
+!.env.example
+company-commit.py
+company-commit.sh
+HOWTOUSE.md
+
+# --- Python ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.Python
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# --- Editores / IDEs ------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude/
+
+# --- Sistema operacional --------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# --- Diversos -------------------------------------------------------------
+*.log
+*.bak
+*.tmp
+*.orig
+*.rej
