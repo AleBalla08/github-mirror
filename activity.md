@@ -1,6 +1,7 @@
 # Activity log
 
 ## 2026-11
+- 2026-11-27 — 1 activity
 - 2026-11-24 — 3 activities
 - 2026-11-19 — 3 activities
 - 2026-11-18 — 3 activities
